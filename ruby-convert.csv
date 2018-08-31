@@ -1,0 +1,3 @@
+ParameterName,ParameterValue
+application_name,default
+archive_command,/etc/rds/dbbin/pgscripts/rds_wal_archive %p
